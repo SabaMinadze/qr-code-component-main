@@ -7,6 +7,8 @@ body{
     background-color: rgb(213,225,239);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap');
+
 .container{
     background-color: white;
     width: 400px;
@@ -20,7 +22,16 @@ body{
     max-width: 350px;
 }
 
-
 .img1{
     width: 100%;
+}
+
+.txt{
+    font-family: 'Red Hat Display', sans-serif;
+    color: rgb(28,41,69);
+}
+
+.txt2{
+    font-family: 'Red Hat Display', sans-serif;
+    color: rgb(153,157,165);
 }
