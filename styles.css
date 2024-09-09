@@ -14,6 +14,7 @@ body{
     width: 400px;
     padding: 20px;
     border-radius: 20px;
+    margin-top: 20px;
 }
 
 .bigBox{
@@ -29,6 +30,7 @@ body{
 .txt{
     font-family: 'Red Hat Display', sans-serif;
     color: rgb(28,41,69);
+    margin-top: 20px;
 }
 
 .txt2{
