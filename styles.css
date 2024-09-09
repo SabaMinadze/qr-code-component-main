@@ -1,8 +1,10 @@
-
+body{
+    background-color: rgb(213,225,239);
+}
 
 .bigBox{
     width: 600px;
-    background-color: red;
+    background-color: white;
     max-width: 350px;
 }
 
